@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Brandon Watson</h1>
 <h3 align="center">A passionate AWS Solutions Architect from Arizona</h3>
 
-- 🌱 I’m currently learning **GIT, Terraform, BASH**
+- 🌱 I’m currently learning **GIT, Terraform, and BASH**
 
-- 📫 How to reach me **brandonmwatso@gmail.com**
+- 📫 How to reach me: **brandonmwatso@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/brandonmwatson1/](https://www.linkedin.com/in/brandonmwatson1/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/brandonmwatson1/](https://www.linkedin.com/in/brandonmwatson1/)
 
 <p align="left">
 <a href="https://linkedin.com/in/brandonmwatson1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonmwatson1" height="30" width="40" /></a>
