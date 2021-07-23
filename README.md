@@ -8,7 +8,6 @@
 - 📫 How to reach me: **brandonmwatso@gmail.com**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/brandonmwatson1/](https://www.linkedin.com/in/brandonmwatson1/)
-- 👨‍💻 See my resume: https://github.com/brandonmwatson1/resume/blob/main/Brandon-Watson-Resume.pdf
 
 <p align="left">
 <a href="https://linkedin.com/in/brandonmwatson1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonmwatson1" height="30" width="40" /></a>
