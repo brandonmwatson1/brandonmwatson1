@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Watson</h1>
 <h3 align="center">A passionate AWS Solutions Architect from Arizona</h3>
 
-- 🌱 I’m currently learning **GIT, Terraform, and BASH**
+- 🌱 I’m currently learning **GIT, Terraform, Ansible and BASH**
 
 - 📫 How to reach me: **brandonmwatso@gmail.com**
 
